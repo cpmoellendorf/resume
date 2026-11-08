@@ -62,8 +62,7 @@ career-profile:
   summary: |
     Undergraduate student and UC Regents Scholar at UCLA studying statistics
     and data science. Currently researching theory and application of advanced 
-    statistical models. Seeking a summer job/internship in data analytics, product research, 
-    or machine learning. 
+    statistical models. Pursuing graduate education and research.
 education:
   title: Education
   info:
@@ -86,28 +85,22 @@ experiences:
         models, machine learning algorithms, and regression techniques.
         - Present applications of techniques in the above papers to faculty mentor, 
         demonstrating understanding through content break-downs and code projects.
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: PolySummer TA
+    time: June 2026 - July 2026
+    company: Polytechnic School
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+        - Assisted lead teachers in daily Math, Robotics, and Game Design classes, 
+        helping manage classroom activities and occasionally leading full class sessions.
+        - Guided students ages 6-12 through hands-on projects/coursework, helping them 
+        troubleshoot game design bugs and understand math concepts.
+  - role: Poly Extended Program (PEP) Staff
+    time: September 2024 - June 2025
+    company: Polytechnic School
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Supervised students in an inclusive after-school program, assisting 
+        students with conflict resolution and emotional regulation.
+        - Facilitated engaging, developmentally appropriate activities that 
+        encourage collaboration and self-expression.
 
 certifications:
   title: Certifications
