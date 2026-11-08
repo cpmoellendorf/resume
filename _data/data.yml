@@ -69,33 +69,23 @@ education:
   info:
   - degree: BS in Statistics and Data Science
     university: UCLA
-    time: 2025 - present
-    details: |
-      Hello
+    time: 2025 - Present
   - degree: AS in Applied Science
     university: Pasadena City College
     time: 2019 - 2025
-    details: |
-      Hello.
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Statistics Research Aide
+    time: March 2026 - Present
+    company: UCLA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+        - Work with a faculty mentor to analyze foundational papers 
+        (along with their accompanying code packages) on modern statistical network 
+        models, machine learning algorithms, and regression techniques.
+        - Present applications of techniques in the above papers to faculty mentor, 
+        demonstrating understanding through content break-downs and code projects.
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
