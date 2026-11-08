@@ -228,23 +228,17 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Statistical Modeling
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Research
+    level: 75%
+
+  - name: Python & R
+    level: 75%
+
+  - name: Microsoft Office & Google Suite
     level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
