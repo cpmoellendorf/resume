@@ -8,7 +8,7 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Coen Pohlmann Moellendorf
+  name: Coen PM
   tagline: Student
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -58,7 +58,7 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: Objective
   summary: |
     Undergraduate student and UC Regents Scholar at UCLA studying statistics
     and data science. Currently researching theory and application of advanced 
@@ -71,24 +71,12 @@ education:
     university: UCLA
     time: 2025 - present
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Hello
   - degree: AS in Applied Science
     university: Pasadena City College
     time: 2019 - 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Hello.
 
 experiences:
   title: Experiences
